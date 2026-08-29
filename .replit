@@ -12,5 +12,5 @@ externalPort = 80
 
 [deployment]
 deploymentTarget = "cloudrun"
+run = "npm start"
 
-run = ["npm", "start"]
